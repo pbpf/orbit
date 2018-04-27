@@ -4,7 +4,7 @@ function [a,e,i,omg,w,f]=rv2root(rvec,vvec,mu)
 %% 输入：
 %     rvec:位置
 %     vvec:速度
-%       mu:地心万有引力常量
+%     mu:地心万有引力常量
 %% 输出：
 %   a,e,i,omg,w,f：经典轨道根数
 %% 测试：通过不严格测试
