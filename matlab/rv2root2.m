@@ -1,4 +1,4 @@
-function [a,e,i,omg,w,tou]=rv2root2(rvec,vvec,mu,t)
+function [a,e,i,omg,w,f,tou]=rv2root2(rvec,vvec,mu,t)
 %% 功能：由位置，速度计算经典轨道根数
 %% 调用：[a,e,i,omg,w,f]=rv2root(rvec,vvec,mu);
 %% 输入：

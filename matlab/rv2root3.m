@@ -27,5 +27,5 @@ function roots=rv2root3(rvec,vvec,mu,t)
  n=sqrt(mu/a^3);
  %% 过近心点的时刻
  tou=t-M/n;
- roots=[a;e;i;omg;w;tou];
+ roots=[a;e;i;omg;w;f,tou];
 end
